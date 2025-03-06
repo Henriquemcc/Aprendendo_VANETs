@@ -2,7 +2,7 @@
 # OMNeT++/OMNEST Makefile for VANETTutorials
 #
 # This file was generated with the command:
-#  opp_makemake -f --deep -KINET4_5_PROJ=/home/src/Aprendendo_VANETs/02 - How to Create a New OMNET++ Project That Works with INET and Veins/workspace/inet4.5 -KVEINS_PROJ=../../veins -DINET_IMPORT -DVEINS_IMPORT -I$$\(INET4_5_PROJ\)/src -I$$\(VEINS_PROJ\)/src -I. -L$$\(INET4_5_PROJ\)/src -L$$\(VEINS_PROJ\)/src -lINET$$\(D\) -lveins$$\(D\)
+#  opp_makemake -f --deep -KINET4_5_PROJ=/home/src/Aprendendo_VANETs/02_-_How_to_Create_a_New_OMNETpp_Project_That_Works_with_INET_and_Veins/workspace/inet4.5 -KVEINS_PROJ=../../veins -DINET_IMPORT -DVEINS_IMPORT -I$$\(INET4_5_PROJ\)/src -I$$\(VEINS_PROJ\)/src -I. -L$$\(INET4_5_PROJ\)/src -L$$\(VEINS_PROJ\)/src -lINET$$\(D\) -lveins$$\(D\)
 #
 
 # Name of target to be created (-o option)
@@ -33,16 +33,25 @@ PROJECTRELATIVE_PATH = src
 O = $(PROJECT_OUTPUT_DIR)/$(CONFIGNAME)/$(PROJECTRELATIVE_PATH)
 
 # Object files for local .cc, .msg and .sm files
-OBJS =
+OBJS = \
+    $O/veins_inet/VeinsInetApplicationBase.o \
+    $O/veins_inet/VeinsInetManager.o \
+    $O/veins_inet/VeinsInetManagerBase.o \
+    $O/veins_inet/VeinsInetManagerForker.o \
+    $O/veins_inet/VeinsInetMobility.o \
+    $O/veins_inet/VeinsInetSampleApplication.o \
+    $O/veins_inet/VeinsInetTransparentMobility.o \
+    $O/veins_inet/VeinsInetSampleMessage_m.o
 
 # Message files
-MSGFILES =
+MSGFILES = \
+    veins_inet/VeinsInetSampleMessage.msg
 
 # SM files
 SMFILES =
 
 # Other makefile variables (-K)
-INET4_5_PROJ=/home/src/Aprendendo_VANETs/02 - How to Create a New OMNET++ Project That Works with INET and Veins/workspace/inet4.5
+INET4_5_PROJ=/home/src/Aprendendo_VANETs/02_-_How_to_Create_a_New_OMNETpp_Project_That_Works_with_INET_and_Veins/workspace/inet4.5
 VEINS_PROJ=../../veins
 
 #------------------------------------------------------------------------------
