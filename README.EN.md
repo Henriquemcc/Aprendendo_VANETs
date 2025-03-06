@@ -1,0 +1,21 @@
+[Versão em Português](README.md)
+
+# Learning how to develop simulations of VANETs (Vehicular ad hoc network) with OMNeT++, INET, VEINS and SUMO
+
+This repository contains the files developed during the online courses of VANETs (Vehicular ad hoc network), carried out for the development of my Final Course Work in Computer Science.
+
+## Official Repository
+
+Os arquivos oficiais do curso, desenvolvidos pelo(a) instrutor(a), estão disponíveis no repositório do Github deste curso:
+
+[VANETTutorials](https://github.com/chaotictoejam/VANETTutorials).
+
+## Courses
+
+The courses in which these files were developed:
+
+[Introduction to VANETs - Dr. Joanne Skiles](https://www.youtube.com/watch?v=tCs-K9AkDrQ&list=PLaBPUIXZ8s4AwAk5EelikvvyG4EzX2hpx&index=1&pp=iAQB).
+
+[Getting started with OMNET++, INET, Veins, and SUMO - Dr. Joanne Skiles](https://www.youtube.com/watch?v=PfAWhrmoYgM&list=PLaBPUIXZ8s4AwAk5EelikvvyG4EzX2hpx&index=2&pp=iAQB).
+
+[How to Create a New OMNET++ Project That Works with INET and Veins - Dr. Joanne Skiles](https://www.youtube.com/watch?v=mGvhbrw05sQ&list=PLaBPUIXZ8s4AwAk5EelikvvyG4EzX2hpx&index=3&pp=iAQB).
