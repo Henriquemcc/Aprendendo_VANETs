@@ -1,0 +1,9 @@
+[submodule "01 - Getting started with OMNET++, INET, Veins, and SUMO/inet"]
+	path = 01 - Getting started with OMNET++, INET, Veins, and SUMO/inet
+	url = git@github.com:inet-framework/inet.git
+[submodule "01 - Getting started with OMNET++, INET, Veins, and SUMO/sumo"]
+	path = 01 - Getting started with OMNET++, INET, Veins, and SUMO/sumo
+	url = git@github.com:eclipse-sumo/sumo.git
+[submodule "01 - Getting started with OMNET++, INET, Veins, and SUMO/veins"]
+	path = 01 - Getting started with OMNET++, INET, Veins, and SUMO/veins
+	url = git@github.com:sommer/veins.git
