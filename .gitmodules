@@ -4,9 +4,3 @@
 [submodule "veins"]
 	path = veins
 	url = git@github.com:sommer/veins.git
-[submodule "02_-_How_to_Create_a_New_OMNETpp_Project_That_Works_with_INET_and_Veins/inet"]
-	path = 02_-_How_to_Create_a_New_OMNETpp_Project_That_Works_with_INET_and_Veins/inet
-	url = git@github.com:inet-framework/inet.git
-[submodule "02_-_How_to_Create_a_New_OMNETpp_Project_That_Works_with_INET_and_Veins/veins"]
-	path = 02_-_How_to_Create_a_New_OMNETpp_Project_That_Works_with_INET_and_Veins/veins
-	url = git@github.com:sommer/veins.git
