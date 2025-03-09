@@ -18,6 +18,7 @@ package io.github.henriquemcc.aprendendovanets.vanettutorials.simulations.wirele
 import inet.networklayer.configurator.ipv4.Ipv4NetworkConfigurator;
 import inet.physicallayer.wireless.common.contract.packetlevel.IRadioMedium;
 import inet.node.inet.WirelessHost;
+import inet.visualizer.canvas.integrated.IntegratedCanvasVisualizer;
 
 //
 // TODO auto-generated type
@@ -28,6 +29,7 @@ network WirelessNetwork
 
         @display("bgb=600,600");
     submodules:
+        visualizer: IntegratedCanvasVisualizer;
         configurator: Ipv4NetworkConfigurator;
         radioMedium: <default("UnitDiskRadioMedium")> like IRadioMedium {
             @display("p=30,98");
