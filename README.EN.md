@@ -19,3 +19,7 @@ The courses in which these files were developed:
 [Getting started with OMNET++, INET, Veins, and SUMO - Dr. Joanne Skiles](https://www.youtube.com/watch?v=PfAWhrmoYgM&list=PLaBPUIXZ8s4AwAk5EelikvvyG4EzX2hpx&index=2&pp=iAQB).
 
 [How to Create a New OMNET++ Project That Works with INET and Veins - Dr. Joanne Skiles](https://www.youtube.com/watch?v=mGvhbrw05sQ&list=PLaBPUIXZ8s4AwAk5EelikvvyG4EzX2hpx&index=3&pp=iAQB).
+
+[An Overview of OMNET++ - Dr. Joanne Skiles](https://www.youtube.com/watch?v=Ez8tTS9iXe4&list=PLaBPUIXZ8s4AwAk5EelikvvyG4EzX2hpx&index=4&pp=iAQB).
+
+[How to Make Mobile Hosts Communicate Wirelessly in OMNET++ - Dr. Joanne Skiles](https://www.youtube.com/watch?v=9xDqjRd1DpA&list=PLaBPUIXZ8s4AwAk5EelikvvyG4EzX2hpx&index=5&pp=iAQB).
