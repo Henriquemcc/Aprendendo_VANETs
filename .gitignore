@@ -2,3 +2,5 @@ inet
 sumo
 veins
 workspace
+.idea/*
+*/.idea/*
