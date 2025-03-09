@@ -1,8 +1,8 @@
-[submodule "01_-_Getting_started_with_OMNETpp_INET_Veins_and_SUMO/inet"]
-	path = 01_-_Getting_started_with_OMNETpp_INET_Veins_and_SUMO/inet
+[submodule "inet"]
+	path = inet
 	url = git@github.com:inet-framework/inet.git
-[submodule "01_-_Getting_started_with_OMNETpp_INET_Veins_and_SUMO/veins"]
-	path = 01_-_Getting_started_with_OMNETpp_INET_Veins_and_SUMO/veins
+[submodule "veins"]
+	path = veins
 	url = git@github.com:sommer/veins.git
 [submodule "02_-_How_to_Create_a_New_OMNETpp_Project_That_Works_with_INET_and_Veins/inet"]
 	path = 02_-_How_to_Create_a_New_OMNETpp_Project_That_Works_with_INET_and_Veins/inet
