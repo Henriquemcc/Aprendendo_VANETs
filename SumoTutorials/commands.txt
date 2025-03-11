@@ -6,3 +6,6 @@ netgenerate --grid --grid.x-number=6 --grid.y-number=3 --grid.x-length=500 --gri
 
 Abrir interface gráfica do SUMO:
 sumo-gui
+
+Comando para criar viagens aleatórias de veículos:
+/usr/share/sumo/tools/randomTrips.py -n sumotest.net.xml -e 600 -o sumotest.trips.xml
