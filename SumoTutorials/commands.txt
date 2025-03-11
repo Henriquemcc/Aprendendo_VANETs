@@ -1,0 +1,5 @@
+Comando para a criação de vias manualmente:
+netconvert --node-files=sumotest.nod.xml --edge-files=sumotest.edg.xml -o sumotest.net.xml
+
+Comando para a geração de vias:
+netgenerate --grid --grid.x-number=6 --grid.y-number=3 --grid.x-length=500 --grid.y-length=1000 -o sumotest2.net.xml
