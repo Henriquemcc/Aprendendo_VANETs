@@ -9,3 +9,6 @@ sumo-gui
 
 Comando para criar viagens aleatórias de veículos:
 /usr/share/sumo/tools/randomTrips.py -n sumotest.net.xml -e 600 -o sumotest.trips.xml
+
+Geração das rotas a partir das viagens:
+duarouter -n sumotest.net.xml --route-files sumotest.trips.xml -o sumotest.rou.xml --ignore-errors
