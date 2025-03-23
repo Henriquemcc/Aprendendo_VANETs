@@ -27,3 +27,5 @@ Os cursos em que estes arquivos foram desenvolvidos:
 [How To Create a Network and Simulation in SUMO - Dr. Joanne Skiles (Como criar uma rede e simulação no SUMO - Dr. Joanne Skiles)](https://www.youtube.com/watch?v=eXW4D32ePpE&list=PLaBPUIXZ8s4AwAk5EelikvvyG4EzX2hpx&index=6&pp=iAQB).
 
 [How to Simulate a V2V Network using OMNET++, INET, and Veins - Dr. Joanne Skiles (Como simular uma rede V2V usando OMNET++, INET e Veins - Dr. Joanne Skiles)](https://www.youtube.com/watch?v=6GG1rPvfagU&list=PLaBPUIXZ8s4AwAk5EelikvvyG4EzX2hpx&index=7&pp=iAQB).
+
+[How to Create a Network and Simulation in SUMO Using OpenStreetMap - Dr. Joanne Skiles (Como criar uma rede e simulação no SUMO usando o OpenStreetMap - Dr. Joanne Skiles)](https://www.youtube.com/watch?v=wZycufsTEGU&list=PLaBPUIXZ8s4AwAk5EelikvvyG4EzX2hpx&index=8&pp=iAQB).
