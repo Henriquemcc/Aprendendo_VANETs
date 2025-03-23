@@ -1,1 +1,3 @@
 netconvert --osm-files map.osm --output-file map.net.xml --geometry.remove --roundabouts.guess --ramps.guess --junctions.join --tls.guess-signals --tls.discard-simple --tls.join
+/usr/share/sumo/
+tools/randomTrips.py -n map.net.xml -e 1000 -o map.trips.xml
